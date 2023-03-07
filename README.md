@@ -1,7 +1,7 @@
 # Generative Artwork By Ryan Rizzo
 
 - Recursion
-This program generates a piece of art using a tile system. Each quadrant of each tile will have a random shape, or will create a new tile of a quarter the size.
+This program generates a piece of art using a tile system. Each quadrant of each tile will have a random shape or will create a new tile of a quarter the size.
 ![Recursion](https://user-images.githubusercontent.com/89487878/211170807-87010a59-c3f1-4d3a-9496-cac70132ad0f.jpeg)
 
 - Displacement
@@ -9,11 +9,11 @@ This program generates a piece of art using rectangles with randomized displacem
 ![Displacement](https://user-images.githubusercontent.com/89487878/211170813-e46dcbb6-8c3e-4145-9dbb-fc1e6dd71ef7.jpeg)
 
 - Gyration
-This program generates a piece of art using loops which draw primitive shapes in a circle around the canvas. The image drawn can be altered by adjusting an assortment of varaibles. Additionally, the parameters can be shuffled by using RANDOMIZE.
+This program generates a piece of art using loops which draw primitive shapes in a circle around the canvas. The image drawn can be altered by adjusting an assortment of variables. Additionally, the parameters can be shuffled by using RANDOMIZE.
 ![Gyration](https://user-images.githubusercontent.com/89487878/211170819-e3e1192e-61ac-4d7d-ace3-ca8a68ea8edd.jpeg)
 
 - PathFinder
-This program generates a piece of art using indivudual lines which which look for a coordinate they have not visited
+This program generates a piece of art using individual lines which look for a coordinate they have not visited
 ![pathFinder](https://user-images.githubusercontent.com/89487878/211170825-0eb521ec-36ee-4f8f-b096-5ff08e66a942.jpeg)
 
 - MazeTiler
