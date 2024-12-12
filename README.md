@@ -22,6 +22,7 @@ This program generates a piece of art using a tile system with randomly generate
 
 - Tree
 This program procederally generates a two dimensional tree using 3D textures
+![Tree](https://github.com/RyanRizzoGithub/Generative-Artwork/blob/main/Tree/Tree.png?raw=true)
 
 
 # How to use & generate new artwork
