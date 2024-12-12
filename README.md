@@ -20,6 +20,10 @@ This program generates a piece of art using individual lines which look for a co
 This program generates a piece of art using a tile system with randomly generated lines and diamonds. 
 ![MazeTiler](https://user-images.githubusercontent.com/89487878/211170829-17566f65-9bc7-4bd7-922a-abeb5fdf5a43.jpeg)
 
+- Tree
+This program procederally generates a two dimensional tree using 3D textures
+
+
 # How to use & generate new artwork
 - Step 1: Install processing for you system (https://processing.org/download)
 - Step 2: Download any of the folders (ex. Recursion, Displacement, ...)
